@@ -1,8 +1,8 @@
 #ifndef BARRAY_ARITHM_H
 #define BARRAY_ARITHM_H
 
-#include "vector.h"
-#include "matrix.h"
+#include "./vector.h"
+#include "./matrix.h"
 
 // ------------------------------------------------
 // -- Basic operations with matrices and vectors -- 
