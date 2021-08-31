@@ -1,4 +1,4 @@
-#include "core.h"
+#include "barray.h"
 
 int main() {
 
