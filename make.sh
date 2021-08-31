@@ -1,1 +1,1 @@
-c++ 1.cpp -Isrc
+c++ example.cpp -Isrc
